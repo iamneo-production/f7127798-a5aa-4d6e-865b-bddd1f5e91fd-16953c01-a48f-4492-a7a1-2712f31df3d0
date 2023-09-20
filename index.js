@@ -40,4 +40,14 @@ console.log("new app")
 
 
 
+log("new app")
+console.log("new app")
+console.log("new app")
+console.log("new app")
+console.log("new app")
+console.log("new app")
+console.log("new app")
+console.log("new app")
+console.log("new app")
+console.log("new app")
 
